@@ -1,1 +1,1 @@
-# Omeka_Authentication
+# Omeka User Account Auto Authentication
